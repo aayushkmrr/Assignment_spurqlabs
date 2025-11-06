@@ -6,7 +6,7 @@ THIS IS A PROJECT FOR A "CANDIADATE INFORMATION AND VIDEO SUBMISSION PORTAL"
                     3.In the .env file, enter your MONGODB CONNECTION STRING
                     4.Run in terminal "npm start
 3.TO RUN THE FRONTEND-
-                    1.Run in terminal "cd Candidateinfo-video-portal"
-                    2.Run in terminal "npm install"
+                    1.Run in terminal "npm install".
+                    2.Run in terminal "cd Candidateinfo-video-portal"
                     3.Run in terminal "npm run dev"
               
